@@ -27,10 +27,8 @@ npm install
 
 ## Running the tests
 
-This repo uses live server to run its test. To start
-
 ```
-npm start
+npm test
 ```
 
 ## Built With
